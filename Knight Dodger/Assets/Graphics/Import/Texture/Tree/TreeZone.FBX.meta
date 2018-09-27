@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 26fdb2cb8406c944080ec19575cbacac
+timeCreated: 1536119985
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 278.obj
+    100002: 279.obj
+    100004: 280.obj
+    100006: 281.obj
+    100008: 282.obj
+    100010: 300.obj
+    100012: 316.obj
+    100014: 317.obj
+    100016: 318.obj
+    100018: 319.obj
+    100020: 320.obj
+    100022: 321.obj
+    100024: 327.obj
+    100026: 331.obj
+    100028: 332.obj
+    100030: 333.obj
+    100032: 334.obj
+    100034: 335.obj
+    100036: 336.obj
+    100038: 337.obj
+    100040: 338.obj
+    100042: 339.obj
+    100044: 340.obj
+    100046: 341.obj
+    100048: 342.obj
+    100050: 343.obj
+    100052: 344.obj
+    100054: 345.obj
+    100056: 352.obj
+    100058: //RootNode
+    400000: 278.obj
+    400002: 279.obj
+    400004: 280.obj
+    400006: 281.obj
+    400008: 282.obj
+    400010: 300.obj
+    400012: 316.obj
+    400014: 317.obj
+    400016: 318.obj
+    400018: 319.obj
+    400020: 320.obj
+    400022: 321.obj
+    400024: 327.obj
+    400026: 331.obj
+    400028: 332.obj
+    400030: 333.obj
+    400032: 334.obj
+    400034: 335.obj
+    400036: 336.obj
+    400038: 337.obj
+    400040: 338.obj
+    400042: 339.obj
+    400044: 340.obj
+    400046: 341.obj
+    400048: 342.obj
+    400050: 343.obj
+    400052: 344.obj
+    400054: 345.obj
+    400056: 352.obj
+    400058: //RootNode
+    2100000: 'Material #287'
+    2100002: 'Material #220'
+    2100004: 'Material #221'
+    2100006: 'Material #307'
+    2100008: 'Material #309'
+    2100010: 'Material #308'
+    2100012: 'Material #231'
+    2100014: 'Material #306'
+    2100016: 'Material #302'
+    2100018: 'Material #301'
+    2100020: 'Material #303'
+    2100022: 'Material #305'
+    2100024: 'Material #304'
+    2100026: 'Material #312'
+    2100028: 'Material #311'
+    2100030: 'Material #310'
+    2100032: 'Material #297'
+    2100034: 'Material #300'
+    2100036: 'Material #298'
+    2100038: 'Material #296'
+    2100040: 'Material #294'
+    2100042: 'Material #295'
+    2100044: 'Material #293'
+    2100046: 'Material #291'
+    2100048: 'Material #289'
+    2100050: 'Material #288'
+    2100052: 'Material #299'
+    2100054: 'Material #292'
+    2300000: 278.obj
+    2300002: 279.obj
+    2300004: 280.obj
+    2300006: 281.obj
+    2300008: 282.obj
+    2300010: 300.obj
+    2300012: 316.obj
+    2300014: 317.obj
+    2300016: 318.obj
+    2300018: 319.obj
+    2300020: 320.obj
+    2300022: 321.obj
+    2300024: 327.obj
+    2300026: 331.obj
+    2300028: 332.obj
+    2300030: 333.obj
+    2300032: 334.obj
+    2300034: 335.obj
+    2300036: 336.obj
+    2300038: 337.obj
+    2300040: 338.obj
+    2300042: 339.obj
+    2300044: 340.obj
+    2300046: 341.obj
+    2300048: 342.obj
+    2300050: 343.obj
+    2300052: 344.obj
+    2300054: 345.obj
+    2300056: 352.obj
+    3300000: 278.obj
+    3300002: 279.obj
+    3300004: 280.obj
+    3300006: 281.obj
+    3300008: 282.obj
+    3300010: 300.obj
+    3300012: 316.obj
+    3300014: 317.obj
+    3300016: 318.obj
+    3300018: 319.obj
+    3300020: 320.obj
+    3300022: 321.obj
+    3300024: 327.obj
+    3300026: 331.obj
+    3300028: 332.obj
+    3300030: 333.obj
+    3300032: 334.obj
+    3300034: 335.obj
+    3300036: 336.obj
+    3300038: 337.obj
+    3300040: 338.obj
+    3300042: 339.obj
+    3300044: 340.obj
+    3300046: 341.obj
+    3300048: 342.obj
+    3300050: 343.obj
+    3300052: 344.obj
+    3300054: 345.obj
+    3300056: 352.obj
+    4300000: 352.obj
+    4300002: 278.obj
+    4300004: 279.obj
+    4300006: 280.obj
+    4300008: 281.obj
+    4300010: 282.obj
+    4300012: 300.obj
+    4300014: 316.obj
+    4300016: 317.obj
+    4300018: 318.obj
+    4300020: 319.obj
+    4300022: 320.obj
+    4300024: 321.obj
+    4300026: 327.obj
+    4300028: 331.obj
+    4300030: 332.obj
+    4300032: 333.obj
+    4300034: 334.obj
+    4300036: 335.obj
+    4300038: 336.obj
+    4300040: 337.obj
+    4300042: 338.obj
+    4300044: 339.obj
+    4300046: 340.obj
+    4300048: 341.obj
+    4300050: 342.obj
+    4300052: 343.obj
+    4300054: 344.obj
+    4300056: 345.obj
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
